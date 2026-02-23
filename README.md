@@ -78,7 +78,7 @@
 ## 🌐 Connect With Me
 
 📧 Email: shrishtid.06@gmail.com  
-💼 LinkedIn: linkedin.com/in/shrishti-dhiman   
+💼 LinkedIn: [Shrishti Dhiman](https://linkedin.com/in/shrishti-dhiman)   
 🌍 Portfolio: Coming Soon 🚀  
 
 ---

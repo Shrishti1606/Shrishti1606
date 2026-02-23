@@ -69,7 +69,7 @@
 
 ## 🔥 Contribution Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=shrishti-dhiman)
+![GitHub Streak](https://streak-stats.demolab.com?user=shrishti1606)
 
 ---
 

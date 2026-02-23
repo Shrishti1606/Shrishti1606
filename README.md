@@ -67,11 +67,9 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 Contribution Streak
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shrishti1606&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shrishti1606&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com?user=shrishti1606&theme=dark)
 
 ---
 

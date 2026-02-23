@@ -8,11 +8,11 @@
 
 ## 🧠 About Me
 
-- 🌱 Currently learning **Data Structures & Algorithms + Backend**
-- 🛠️ Building projects to gain real industry skills
-- ⚡ Interested in scalable systems & problem solving
-- 🎯 Preparing for internships & high-paying tech jobs
-- 📈 Consistent daily improvement mindset
+- Currently learning **Data Structures & Algorithms + Backend**
+- Building projects to gain real industry skills
+- Interested in scalable systems & problem solving
+- Preparing for internships & high-paying tech jobs
+- Consistent daily improvement mindset
 
 ---
 
@@ -59,11 +59,11 @@
 
 ## 📚 Currently Focusing On
 
-- 🔹 Data Structures & Algorithms (DSA)
-- 🔹 Backend Development
-- 🔹 Building Full-Stack Projects
-- 🔹 System Design Fundamentals
-- 🔹 Writing Clean & Efficient Code
+🔹 Data Structures & Algorithms (DSA)
+🔹 Backend Development
+🔹 Building Full-Stack Projects
+🔹 System Design Fundamentals
+🔹 Writing Clean & Efficient Code
 
 ---
 

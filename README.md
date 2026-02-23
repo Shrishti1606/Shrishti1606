@@ -69,9 +69,9 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![Shrishti's GitHub stats](https://github-readme-stats.vercel.app/api?username=shrishti-dhiman&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrishti-dhiman&layout=compact&theme=default)
 
 ---
 

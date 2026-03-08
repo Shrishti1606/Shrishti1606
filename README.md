@@ -57,16 +57,6 @@
 
 ---
 
-## 📚 Currently Focusing On
-
-🔹 Data Structures & Algorithms (DSA)  
-🔹 Backend Development  
-🔹 Building Full-Stack Projects  
-🔹 System Design Fundamentals  
-🔹 Writing Clean & Efficient Code  
-
----
-
 ## 🔥 Contribution Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=shrishti1606&theme=dark)
